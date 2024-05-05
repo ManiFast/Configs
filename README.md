@@ -1,8 +1,11 @@
-# 1280x1024 Resolution
+# 4:3 1280x1024 Resolution
 
-## Latest cfg - csstas3.cfg ! (Its better all)
+## Latest cfg - cs2-manik.cfg !
 
-Monitor - 1920x1080  
+![20240505161222_1](https://github.com/ManiFast/Configs/assets/62830326/1984203e-c4bf-408b-9faf-c058645b9ad8)
+
+
+old
 ![](https://github.com/Stas-inside/Configs/blob/main/Screenshot%20(31).png)
 ![](https://github.com/Stas-inside/Configs/blob/main/Screenshot%20(25).png)
 
